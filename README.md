@@ -12,4 +12,4 @@ Don't click the same card twice!
 
 Use this link to play:
 
-https://github.com/almonteestrella/almonteestrella-github.io-clicky-game
+https://secret-wildwood-82965.herokuapp.com/
