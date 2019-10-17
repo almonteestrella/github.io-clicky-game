@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dora",
+    "image": "http://www.savoyuptown.com/wp-content/uploads/ii/iihobordora-png-dora-the-explorer-jpg-transparent-png.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Lucas",
+    "image": "https://i.pinimg.com/originals/0a/10/5f/0a105f228b580bcd8dbccd7a3c671ac2.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Tom Cat",
+    "image": "https://i.pinimg.com/originals/92/a6/2f/92a62f0221f58fe503a15fcb13f5c107.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Jerry",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51%2BC24NJ2bL._SY355_.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Lady Bug",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81lOKUSPHeL._SX466_.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Toppy",
+    "image": "https://vignette.wikia.nocookie.net/toopy/images/1/14/Toupie.png/revision/latest?cb=20180508212405",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Pink Panther",
+    "image": "https://www.pe.com/wp-content/uploads/migration/nao/nao5y0-pinkpanther.jpg?w=535",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Skeletor",
+    "image": "http://unrealitymag.com/wp-content/uploads/2019/02/skeletor-750x395.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Penelope pitstop",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Wacky-penelope-pitstop.gif/200px-Wacky-penelope-pitstop.gif",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Pierre Nodoryuna",
+    "image": "https://i.ytimg.com/vi/gNTol7swS00/hqdefault.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Patan",
+    "image": "https://i.ytimg.com/vi/5wBLU2Tg6NQ/hqdefault.jpg",
+    "count": 0
+  }
+]
